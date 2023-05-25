@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCFlowerShopWeek3.props" />
+</Project>
